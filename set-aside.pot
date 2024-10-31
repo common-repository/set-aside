@@ -1,0 +1,88 @@
+# Copyright (C) 2010 Set Aside
+# This file is distributed under the same license as the Set Aside package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Set Aside 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/set-aside\n"
+"POT-Creation-Date: 2011-06-23 18:25:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: set-aside.php:60
+msgid ""
+"%1$d Posts changed to Format \"%2$s\" &ndash; Thank you for using <em>%3$s</"
+"em>"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Set Aside 0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: set-aside.php:60 set-aside.php:66 set-aside.php:75 set-aside.php:108
+#: set-aside.php:110
+msgid "Set Aside"
+msgstr ""
+
+#: set-aside.php:69
+msgid ""
+"<p>This version of WordPress is too old. It doesn't support post formats.</p>"
+msgstr ""
+
+#: set-aside.php:75
+msgid ""
+"<p>When you click the button below, <em>%1$s</em> will change the post "
+"format on all posts in the category you selected.</p>"
+msgstr ""
+
+#: set-aside.php:95
+msgid "Change Post Format"
+msgstr ""
+
+#. translators: %1$s is the plugin name, %2$s is the Plugin URI, %3$s links to
+#. the Open Graph Protocol website, %4$s links to the Open Graph Protocol page
+#. at Facebook
+#: set-aside.php:110
+msgid ""
+"<p><em>%1$s</em> lets you change the post format on all posts in a "
+"category. This should come in useful e.g. when you used to run a theme that "
+"styles posts as \"Asides\" based on categories, and then you switch to a "
+"theme that styles them based on the post format, a feature which was "
+"introduced in WordPress 3.1</p><p>If you have any questions you can contact "
+"the author of this plugin via his blog at <a href=\"%2$s\">ten-fingers-and-a-"
+"brain.com</a></p><p>For more information on post formats consult <a href=\"%3"
+"$s\">the WordPress Codex</a> or read <a href=\"%4$s\">this great article by "
+"Otto</a></p>"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Set Aside 0.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#: set-aside.php:110
+msgid "http://ten-fingers-and-a-brain.com/wordpress-plugins/set-aside/"
+msgstr ""
+
+#: set-aside.php:110
+msgid "http://codex.wordpress.org/Post_Formats"
+msgstr ""
+
+#: set-aside.php:110
+msgid "http://ottopress.com/2010/post-types-and-formats-and-taxonomies-oh-my/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Lets you change the post format on all posts in a "
+"category. This should come in useful e.g. when you used to run a theme that "
+"styles posts as \"Asides\" based on categories, and then you switch to a "
+"theme that styles them based on the post format, a feature which was "
+"introduced in WordPress 3.1"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Martin Lormes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://ten-fingers-and-a-brain.com/"
+msgstr ""
